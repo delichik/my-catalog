@@ -50,8 +50,6 @@ jobs:
       - name: Merge staging into main
         shell: bash
         run: |
-          ls
-          pwd
           cd "/home/runner/work/my-catalog/my-catalog/"
           git config user.name "delichik-bot"
           git config user.email "bot@imiku.moe"
