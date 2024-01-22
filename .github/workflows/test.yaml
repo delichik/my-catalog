@@ -51,6 +51,7 @@ jobs:
         shell: bash
         run: |
           ls
+          pwd
           cd "/home/runner/work/my-catalog/catalog/"
           git config user.name "delichik-bot"
           git config user.email "bot@imiku.moe"
