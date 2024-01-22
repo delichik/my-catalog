@@ -1,0 +1,39 @@
+{
+    "charts": {},
+    "test": {},
+    "stable": {
+        "alist": {
+            "app_readme": "<p>Alist program that supports multiple storage, powered by Gin and React</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/alist\">https://truecharts.org/charts/stable/alist</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "cloud"
+            ],
+            "description": "Alist program that supports multiple storage, powered by Gin and React",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/stable/alist",
+            "location": "/home/runner/work/my-catalog/my-catalog/stable/alist",
+            "latest_version": "8.2.4",
+            "latest_app_version": "3.30.0",
+            "latest_human_version": "3.30.0_8.2.4",
+            "last_update": "2024-01-22 14:51:45",
+            "name": "alist",
+            "recommended": false,
+            "title": "Alist",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/Xhofe/alist",
+                "https://github.com/truecharts/charts/tree/master/charts/stable/alist",
+                "https://hub.docker.com/r/xhofe/alist"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/alist.png"
+        }
+    }
+}
